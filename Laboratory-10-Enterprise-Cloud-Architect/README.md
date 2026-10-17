@@ -1,7 +1,9 @@
 # Mission 10: The Enterprise Cloud Architect
 
 **Course:** CCM101 - Cloud Computing | **Section:** BSIT 4H
+
 **Instructor:** Jenkielyn C. Torres
+
 **Team:** James Russel Lopez, Vicel Mae Peralta, Mark Lester Dela Cruz, Katrina Advincula
 
 ## Overview
